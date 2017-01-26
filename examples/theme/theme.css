@@ -19,6 +19,9 @@ body {
 
 .fondo{
 	background-image: url(05.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+
 }
 
 #logo {
